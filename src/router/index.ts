@@ -2,7 +2,7 @@ import { createRouter,createWebHashHistory} from "vue-router"
 
 import cleanJson from '../views/CleanJson.vue'
 import cleanXml from '../views/CleanXml.vue'
-import portCheck from '../views/PortCheck.vue'
+import portCheck from '../views/mysql/Index.vue'
 const routes = [
   {
     path: "/format/json",

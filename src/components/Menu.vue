@@ -12,7 +12,7 @@
       <el-menu-item index="/format/json">JSON</el-menu-item>
       <el-menu-item index="/format/xml">XML</el-menu-item>
     </el-sub-menu>
-    <el-menu-item index="/port/check">端口检测</el-menu-item>
+    <el-menu-item index="/port/check">数据库管理</el-menu-item>
   </el-menu>
 </template>
 
