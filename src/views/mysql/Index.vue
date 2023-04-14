@@ -5,7 +5,7 @@
 
 <script lang="ts" setup>
 import Database from './ConnDatabase.vue'
-import Manage from './Manage.vue'
+import Manage from './ManageDatabase.vue'
 import {ref } from 'vue'
 const isConn=ref<boolean>(false)
 function getConnection(connection:any){
